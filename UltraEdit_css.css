@@ -447,6 +447,11 @@ h3 {
 
 .list_1>ul>li>a {
     font-size: small;
+    /* color: white; */
+}
+.list_2>ul>li>a {
+    font-size: small;
+    color: white;
 }
 
 .list_1>ul>li> {
